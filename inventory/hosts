@@ -1,0 +1,6 @@
+[servers]
+34.242.77.238
+
+[servers:vars]
+ansible_ssh_private_key_file=~/.ssh/contractless-test-keys.pem
+ansible_user=ubuntu
